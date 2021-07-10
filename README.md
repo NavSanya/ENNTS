@@ -15,8 +15,11 @@ MIT License
 <!-- Contributions -->
 ## Contributions
 
-Nav Sanya Anand:
- 
+Nav Sanya Anand
+
+Vasileios Lyberakis
+
+Daniel Lengyel
 
 <!-- CONTACT -->
 ## Contact

@@ -1,4 +1,4 @@
-# TimeSpan-to-classifyClass
+# ENNTS
 ## About The Project
 We are tackling the problem: if we have an NN already trained to approximate a function described by the dataset. What is the time needed to further train it on a different problem described by dataset B?
 Develop a new method to estimate the time a Neural Network takes to train. Through this method, we can make an informed decision if it is worth training a Neural Network.

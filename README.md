@@ -33,8 +33,7 @@ Nav Sanya Anand - (NavSanya@mail.fresnostate.edu) - email
 
 ## Links
 
-* Project Link: 
-* Report: 
+* Project Link: https://github.com/NavSanya/ENNTS 
 * Presentation: TimeSpan-to-classifyClass - https://docs.google.com/presentation/d/1uctlEoEgonolkg_JyxS9Ofi2HtljEvOxnv0z4Uhf6HQ/edit?usp=sharing 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
